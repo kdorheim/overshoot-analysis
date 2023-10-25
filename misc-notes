@@ -1,0 +1,6 @@
+## Notes on how to install the JGCRI/stitiches package to use here
+
+I ended up following the instructions from jetbrains also had to delete an already installed version of stitches, okay
+that seemed to woek!
+
+https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html#install-in-tool-window
